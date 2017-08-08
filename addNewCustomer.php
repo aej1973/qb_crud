@@ -1,6 +1,6 @@
 <?php include('includes/index.php'); ?>
 <div class="container" style="padding-top:30px">
-<form method="post" action="create_customer.php">
+<form method="post" action="../qb-oauth2/create_another_customer.php">
 <div class="col-md-10  col-sm-10  col-xs-10 " style="background:#f6f6f6;padding-top:30px">
   <h3 class="text-center">BILLING ADDRESS</h3>
   <hr>

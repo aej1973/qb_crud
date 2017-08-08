@@ -23,7 +23,7 @@
   <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
     <ul class="navbar-nav align-items-end">
       <li class="nav-item active">
-        <a class="nav-link" href="#">Home <span class="sr-only">(current)</span></a>
+        <a class="nav-link" href="https://arunej.me/qb_crud/addNewCustomer.php">Home <span class="sr-only">(current)</span></a>
       </li>
       <li class="nav-item">
         <a class="nav-link" href="#">Customer</a>
@@ -32,7 +32,7 @@
         <a class="nav-link" href="#">Invoice</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link disabled" href="#">Disabled</a>
+        <a class="nav-link" href="https://arunej.me/qb-oauth2/OAuth_2/">Token</a>
       </li>
     </ul>
   </div>
